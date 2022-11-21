@@ -7,9 +7,9 @@
 [![zauberhaft.ravenbright.design](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://zauberhaft.ravenbright.design)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ariqnrnns/zauberhaft-nextjs/main/src/Zauberhaft-banner.jpg" alt="Zauberhaft Banner">
+<img src="https://raw.githubusercontent.com/ariqnrnns/zauberhaft-nextjs/main/Zauberhaft-banner.jpg" alt="Zauberhaft Banner">
 
-<img src="https://raw.githubusercontent.com/ariqnrnns/zauberhaft-nextjs/main/src/Zauberhaft-stats.jpg" alt="Zauberhaft Stats">
+<img src="https://raw.githubusercontent.com/ariqnrnns/zauberhaft-nextjs/main/Zauberhaft-nextjs-stats.jpg" alt="Zauberhaft Stats">
 </p>
 
 ## Free, customizable, modern & Lightning fast Next.js agency website template
