@@ -1,0 +1,56 @@
+{
+  "name": "zauberhaft-nextjs",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ariqnrnns/zauberhaft-nextjs"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://zauberhaft.ravenbright.design",
+  "author": "Ariq N",
+  "description": "Build modern & unique agency portfolio websites that convert. Supercharge your online presence & get more customers with responsive & high performance dark mode Next.js template. Easily customize the template with utility classes & CSS custom properties",
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "postcss": "postcss styles/main.css --output styles/dist/ravenbright.min.css --watch",
+    "next-dev": "next dev",
+    "dev": "concurrently  'npm:postcss' 'npm:next-dev'"
+  },
+  "bugs": {
+    "url": "https://github.com/ariqnrnns/zauberhaft-nextjs/issues"
+  },
+  "keywords": [
+    "Free Next.js template",
+    "Next.js template",
+    "Free modern Next.js template",
+    "Next.js framework",
+    "Static site generator",
+    "SSG",
+    "SSR",
+    "Server-side rendering"
+  ],
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "@types/node": "^18.11.9",
+    "@types/react": "^18.0.25",
+    "cssnano": "^5.1.14",
+    "eslint": "^8.28.0",
+    "eslint-config-next": "^13.0.4",
+    "postcss": "^8.4.19",
+    "postcss-cli": "^10.0.0",
+    "postcss-import": "^15.0.0",
+    "postcss-mixins": "^9.0.4",
+    "postcss-nested": "^6.0.0",
+    "typescript": "4.9.3"
+  },
+  "dependencies": {
+    "@netlify/plugin-nextjs": "^4.29.2",
+    "autoprefixer": "^10.4.13",
+    "concurrently": "^7.6.0",
+    "next": "^13.0.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.6.0"
+  }
+}
